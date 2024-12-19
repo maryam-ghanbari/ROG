@@ -104,11 +104,4 @@ python src/joint_training/generate_explanation_results.py
 
 Run: `./scripts/train.sh`
 
-## Results
-
-<img src="resources/results.png" width = "600" />
-<img src="resources/plug-and-play.png" width = "600" />
-<img src="resources/lack_of_knowledge.png" width = "600" />
-<img src="resources/hallucination.png" width = "600" />
-
 ```
